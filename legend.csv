@@ -1,0 +1,11 @@
+#NAME,sample name,
+region,region of the body,
+,BB,belly button
+,CA,calves
+,BE,behind ears
+,FA,forearms
+,BT,Between toes
+wash,how often those body locations are washed,
+,less,
+,more,
+student,student code,
