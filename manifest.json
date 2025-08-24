@@ -1,5 +1,18 @@
 {
   "version": 1,
+  "metadata": {
+    "appmode": "shiny",
+    "primary_rmd": null,
+    "primary_html": null
+  },
+  "r": {
+    "version": "4.4.0"
+  },
+  "platform": {
+    "r": "4.4.0",
+    "os": "linux",
+    "pandoc": "2.19.2"
+  },
   "package": [
     {
       "name": "shiny",
@@ -81,14 +94,5 @@
       "name": "purrr",
       "version": "1.0.2"
     }
-  ],
-  "r": {
-    "version": "4.4.0"
-  },
-  "platform": {
-    "r": "4.4.0",
-    "os": "linux",
-    "pandoc": "2.19.2"
-  }
+  ]
 }
-
